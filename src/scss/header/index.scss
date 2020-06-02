@@ -1,0 +1,34 @@
+.main-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  &__logo-wrapper {
+    width: 50px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+
+    img {
+      width: 100%;
+      height: auto;
+    }
+  }
+
+  &__contacts-wrapper {
+    display: flex;
+    align-items: center;
+
+    button {
+      flex-grow: 1;
+      margin-left: 30px;
+    }
+  }
+
+  &__contacts {
+    p {
+      margin: 0;
+      padding: 0;
+    }
+  }
+}
