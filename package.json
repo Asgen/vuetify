@@ -9,7 +9,7 @@
     "bootstrap": "^4.5.0",
     "bootstrap-vue": "^2.15.0",
     "popper.js": "^1.16.1",
-    "vuetify": "^2.2.30"
+    "vuetify": "^2.6.10"
   },
   "devDependencies": {
     "@babel/core": "^7.10.0",
